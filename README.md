@@ -14,5 +14,5 @@
 - Type command 'CD Homeworks' ----> 'CD SEO-HTML-Refactor' to able to access repository for modification.
 
 ## Usage
-![Screenshot (3)](https://github.com/ant05man/SEO-HTML-Refactor/assets/132954354/463c500f-6708-4905-be03-44fb9116003a)
+![Screenshot (3)](https://github.com/ant05man/SEO-HTML-Refactor/assets/132954354/83cd1b8f-afea-4c4d-a0ee-bae867f15c49)
 
