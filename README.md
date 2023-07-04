@@ -14,6 +14,6 @@
 - Type command 'CD Homeworks' ----> 'CD SEO-HTML-Refactor' to able to access repository for modification.
 
 ## Usage
-![alt tag](C:\Users\ant05\Pictures\Screenshots.png "Description goes here")
+!(C:\Users\ant05\Pictures\Screenshots.png "Description goes here")
 
 
