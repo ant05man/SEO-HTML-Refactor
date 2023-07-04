@@ -16,3 +16,6 @@
 ## Usage
 ![Screenshot (3)](https://github.com/ant05man/SEO-HTML-Refactor/assets/132954354/83cd1b8f-afea-4c4d-a0ee-bae867f15c49)
 
+
+![Screenshot (4)](https://github.com/ant05man/SEO-HTML-Refactor/assets/132954354/0a59c335-4ed9-4eaa-8880-3f27086fd123)
+
