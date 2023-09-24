@@ -1,6 +1,6 @@
 # SEO-HTML-Refactor
 
-## This a Project where I had to Refactor code
+## Description
 
 - The project was created in order to be able to consolidate code and refactor for better accessibility.
 - With this challenge, by observing the HTML and CSS pages in conjunction, it will teach us how to find certain pieces of code quickly and understand what it does as a result.
