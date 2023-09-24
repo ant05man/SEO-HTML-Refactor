@@ -87,29 +87,65 @@ p {
     background-color: #2589bd;
 }
 
-/* changed every class to benefit-title */
-.benefit-title {
+/* LEAD GENERATION ICON */
+#leadGeneration {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-.benefit-title h3 {
+#leadGeneration h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-title img {
+#leadGeneration img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* BRAND AWARENESS ICON */
+#brandAwareness {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+
+#brandAwareness h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#brandAwareness img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* COST MANAGEMENT ICON */
+#costManagement {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+
+#costManagement h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#costManagement img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /*Changed the class name to the abbreviations of the titles on the menu */
-
 /* This section is for the different sections/articles of the content that we named with abbreviations */
-
 /* This is how we refer to the different articles that we named with these id names */
+
+/* ONLINE REPUTATION MANAGEMENT */
 #ORM {
     margin-bottom: 20px;
     padding: 50px;
@@ -125,6 +161,7 @@ p {
     max-height: 200px;
 }
 
+/* SEARCH ENGINE OPTIMIZATION */
 #SEO {
     margin-bottom: 20px;
     padding: 50px;
@@ -139,6 +176,7 @@ p {
     max-height: 200px;
 }
 
+/* SOCIAL MEDIA MARKETING */
 #SMM {
     margin-bottom: 20px;
     padding: 50px;
@@ -155,7 +193,7 @@ p {
 
 
 
-
+/*FOOTER */
 .footer {
     padding: 30px;
     clear: both;
@@ -163,6 +201,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
