@@ -106,6 +106,10 @@ p {
 }
 
 /*Changed the class name to the abbreviations of the titles on the menu */
+
+/* This section is for the different sections/articles of the content that we named with abbreviations */
+
+/* This is how we refer to the different articles that we named with these id names */
 #ORM {
     margin-bottom: 20px;
     padding: 50px;
@@ -116,6 +120,7 @@ p {
     font-size: 36px;
 }
 
+/* referring to the img */
 #ORM img {
     max-height: 200px;
 }
